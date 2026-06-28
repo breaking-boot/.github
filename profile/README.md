@@ -1,11 +1,11 @@
 ## Hi there 👋, welcome to Breaking-Boot.
 
-Breaking-Boot is a group of [boot.dev](boot.dev) Archmages, passionate about creating tools for our favorite (coding education platform)[https://www.boot.dev/about].
+Breaking-Boot is a group of [boot.dev](boot.dev) Archmages, passionate about creating tools for our favorite [coding education platform](https://www.boot.dev/about).
 
 Drop us a message if you want to get in touch.
 
 Please note, we are **not** officially affiliated with [boot.dev](boot.dev). We make no such claim.
-Use of any of our tools does not free you from your obligation to comply with [boot.dev's Terms of Service](https://www.boot.dev/terms).
+Use of any of our tools does not free you from your obligation to comply with boot.dev's [Terms of Service](https://www.boot.dev/terms).
 <!--
 
 **Here are some ideas to get you started:**
